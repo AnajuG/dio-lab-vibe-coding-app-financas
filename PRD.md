@@ -20,12 +20,14 @@ Pessoas que querem começar a organizar suas finanças de forma prática e sem c
 
 # Funcionalidades-Chave
 1. Registrar o salário recebido.
-2. Registrar gastos via chat em linguagem natural.  
-3. Classificar automaticamente as transações.  
-4. Definir e acompanhar metas financeiras.  
-5. Receber dicas de economia do “Agente Financeiro”.  
-6. Visualizar relatórios simples e personalizados.
-7. Receber um plano de ação simples e recomendações em caso de dívida.
+2. Registrar gastos via chat em linguagem natural.
+3. Registrar a forma de compra e a instituição financeira usada, via chat, em linguagem natural.
+4. Ter visões dos gastos em cada instituição financeira.
+5. Classificar automaticamente as transações.  
+6. Definir e acompanhar metas financeiras.  
+7. Receber dicas de economia do “Agente Financeiro”.  
+8. Visualizar relatórios simples e personalizados.
+9. Receber um plano de ação simples e recomendações em caso de dívida.
 
 # Entregável da IA
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
