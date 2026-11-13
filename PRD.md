@@ -1,4 +1,4 @@
-# **PRD - Prompt final usado**
+# **Prompt final usado**
 
 ```txt
 
