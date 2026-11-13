@@ -494,6 +494,10 @@ Princípios:
 
 Essa abordagem deve estar presente em todas as interações, tornando o aplicativo mais humano, acolhedor e motivador.
 ```
+# **Primeiro Problema**
+Como o Lovable tem um limite de uso para contas gratuitas, tive que esperar para continuar a criação do app:
+<img width="1470" height="764" alt="Captura de Tela 2026-11-13 às 13 16 38" src="https://github.com/user-attachments/assets/92173196-5570-4751-a4de-e270f5c27fc2" />
+
 
 
 
