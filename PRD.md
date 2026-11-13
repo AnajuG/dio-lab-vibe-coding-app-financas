@@ -30,8 +30,9 @@ Pessoas que querem começar a organizar suas finanças de forma prática e sem c
 # Entregável da IA
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
 Usar tom educativo e linguagem acessível, em português.
+Deve ter um Design Universal, para que possa ser usado com boa experiência com o maior número de usuários possíveis.
 ```
 
-## Resultados gerados pelo copilot
+## **Resultados gerados pelo Copilot**
 
 
