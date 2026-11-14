@@ -499,7 +499,27 @@ Como o Lovable tem um limite de uso para contas gratuitas, tive que esperar para
 <img width="1470" height="764" alt="Captura de Tela 2026-11-13 às 13 16 38" src="https://github.com/user-attachments/assets/92173196-5570-4751-a4de-e270f5c27fc2" />
 
 Eu deveria ter solicitado um PRD mais curto e objetivo, para que não usasse tantos créditos.
+Corrigi alguns detalhes simples como a cor, e aba de login que não estava funcionando corretamente, o restante ficou como eu gostaria. 
+<img width="473" height="764" alt="Captura de Tela 2026-11-13 às 22 10 47" src="https://github.com/user-attachments/assets/9233cbd2-cbd9-4917-9eb1-307865d434b8" />
 
+# **App Final - Conta Comigo**
+https://metas-e-contas-em-dia.lovable.app
+
+# **Resumo**
+Conta comigo é um aplicativo de organização financeira pessoal que simplifica o controle das finanças por meio de uma experiência conversacional.
+
+Simplificando processos, no app o usuário pode registrar receitas, despesas, metas e dívidas utilizando linguagem natural, como se estivesse conversando com um assistente financeiro pessoal. A aplicação transforma essas informações em dados estruturados, organizando os gastos por categoria, forma de pagamento e instituição financeira.
+
+Além do acompanhamento financeiro tradicional, o diferencial do projeto está na proposta de finanças compassivas. O aplicativo foi concebido para orientar e educar o usuário sem julgamentos, oferecendo recomendações práticas, acompanhamento de metas financeiras e planos de ação para situações de endividamento. O objetivo é tornar a educação financeira mais acessível, humana e motivadora para pessoas que desejam criar hábitos financeiros mais saudáveis.
+
+# **Aprendizados**
+Desenvolver o projeto Conta comigo foi uma oportunidade prática para explorar conceitos de Product Management, UX Design e Vibe Coding utilizando IA como aceleradora do processo de criação.
+
+Um dos principais aprendizados foi perceber que a qualidade do resultado está diretamente relacionada à clareza das instruções fornecidas. Ao evoluir o PRD, detalhar objetivos, público-alvo, regras de negócio e diferenciais do produto, ficou evidente como um bom contexto gera implementações mais coerentes e alinhadas à visão do produto.Também aprendi a transformar uma ideia relativamente ampla em um MVP mais objetivo, priorizando funcionalidades que realmente entregam valor ao usuário. Durante o processo, ficou claro que definir escopo é tão importante quanto criar funcionalidades, especialmente quando se trabalha com desenvolvimento assistido por IA.
+
+Outro aprendizado relevante foi a importância de pensar na experiência do usuário desde o início. A decisão de adotar uma abordagem baseada em conversação e no conceito de finanças compassivas mostrou como aspectos emocionais e comportamentais podem ser tão importantes quanto os recursos técnicos de uma aplicação financeira.
+
+Por fim, o projeto reforçou minha compreensão sobre o potencial das ferramentas de IA para acelerar a prototipação e a validação de produtos digitais. Mais do que gerar código, a IA se mostrou uma parceira para estruturar ideias, revisar requisitos e transformar conceitos em soluções funcionais de forma muito mais rápida do que em um processo tradicional de desenvolvimento. Essa experiência demonstrou que Vibe Coding não substitui a visão de produto, mas amplia significativamente a capacidade de transformar ideias em aplicações reais quando existe clareza sobre o problema a ser resolvido e sobre a experiência que se deseja oferecer ao usuário.
 
 
 
